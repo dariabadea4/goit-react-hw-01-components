@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dariabadea4/goit-react-hw-01-components/static/css/main.c7ef3c59.css",
+    "main.js": "/dariabadea4/goit-react-hw-01-components/static/js/main.b757d005.js",
+    "index.html": "/dariabadea4/goit-react-hw-01-components/index.html",
+    "main.c7ef3c59.css.map": "/dariabadea4/goit-react-hw-01-components/static/css/main.c7ef3c59.css.map",
+    "main.b757d005.js.map": "/dariabadea4/goit-react-hw-01-components/static/js/main.b757d005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ef3c59.css",
+    "static/js/main.b757d005.js"
+  ]
+}
